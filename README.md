@@ -39,10 +39,12 @@ project-folder/
 <img width="1893" height="902" alt="Screenshot 2026-06-22 213913" src="https://github.com/user-attachments/assets/0ce37005-a2aa-4654-968d-b466e87e5d08" />
 <img width="1912" height="902" alt="Screenshot 2026-06-22 213926" src="https://github.com/user-attachments/assets/14fb0e44-e2a3-44a0-a053-5f74d89d2f5c" />
 
+##Live link
+https://saideepika-29.github.io/InternSpark-_Internship_task-1_ResponsivePortfolioWebsite/
 
 ## Author
 
 **Deepika**
 
 
-```md
+
